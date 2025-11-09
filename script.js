@@ -1,4 +1,4 @@
-let timeleft = 1000;
+let timeleft = 120;
 const timerElement = document.getElementById("timer");
 
 const countdown = setInterval(() =>{
